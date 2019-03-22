@@ -1,7 +1,7 @@
 ## ScreenShot
 
 <p align="center" >
-    <img alt="AirBnB copycat" src="./ScreenShot.png" height="778" width="273" />
+    <img alt="AirBnB copycat" src="./ScreenShot.png" height="600" width="273" />
  </a>
 
 ## Video
