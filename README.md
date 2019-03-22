@@ -1,9 +1,9 @@
 ## ScreenShot
 
-![screenshot of AirBnB copycat](./src/ScreenShot.png?raw=true "screenshot AirBnB Mobile App")
+![screenshot of AirBnB copycat](./ScreenShot.png?raw=true "screenshot AirBnB Mobile App")
 
 <p align="center" >
-    <img alt="AirBnB copycat" src="./src/ScreenShot.png" width="778" height="473" />
+    <img alt="AirBnB copycat" src="./ScreenShot.png" width="778" height="473" />
  </a>
 
 ## Video
