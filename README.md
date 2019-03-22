@@ -1,8 +1,14 @@
 ## ScreenShot
 
+![screenshot of AirBnB copycat](./src/ScreenShot.png?raw=true "screenshot AirBnB Mobile App")
+
 <p align="center" >
-    <img alt="AirBnB copycat" src="http://sneakersmap.fr/img/airbnb.gif" width="778" height="473" />
+    <img alt="AirBnB copycat" src="./src/ScreenShot.png" width="778" height="473" />
  </a>
+
+## Video
+
+- [Video](http://sneakersmap.fr/img/airbnb.gif)
 
 ## ✅ Functionalities
 
